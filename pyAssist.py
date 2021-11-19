@@ -10,7 +10,7 @@ import urllib
 import re
 
 from wikipedia.wikipedia import random
-owkey = 'af74a38c175d420e6b4fab8313401c87'
+owkey = ''
 
 recognizer = sr.Recognizer()
 microphone = sr.Microphone()
